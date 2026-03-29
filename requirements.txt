@@ -1,0 +1,5 @@
+# في Termux أو Pydroid3
+cat > requirements.txt << EOF
+Flask==2.3.0
+gunicorn==21.2.0
+EOF
